@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1279354360
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44069a6d0da7c073d207d40c5485cdb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44069a6d0da7c073d207d40c5485cdb5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Classroom Setup/Lightmap-4_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-10_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-6_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-8_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-3_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-9_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-0_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-2_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-1_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-7_comp_light.exr
+- Assets/Scenes/Classroom Setup/Lightmap-5_comp_light.exr
+Dependencies: []

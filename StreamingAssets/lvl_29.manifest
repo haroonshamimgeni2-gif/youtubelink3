@@ -1,0 +1,140 @@
+ManifestFileVersion: 0
+CRC: 4073768900
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 372b700ef946a6fcb440fed56777790f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 458a9f73d2d64fbee408c8c9fdbe6924
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 372b700ef946a6fcb440fed56777790f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f9c89526be4e4744912b99cd5d0db54, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c300cb70f4b5b03439f410618c93d5b9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b333ae1776ec1cc4dba161b051f2a6bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 407c222a236cddf44b516bfafed98e8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d2187b35322f634287e75648ee760ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ad9f57dd04b7418c94d1321ed013533, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 382af977989141047a7bac589d029829, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5254fe907c0e5b043a16bec4e03c7691, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b2b2cb2a4a899245915ce232ad9ad53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29d07920386555b4184e3b21c7364b23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 40c96749d313b417983b5b1df83b6b0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbdb8b0f718e48a4f834e5dc569bfec3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c72de85d311b1c9409178922a57f7cd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: deef77c3811d7c74488556a6307a6b1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66a6d1453ce948e43bbd71c555461544, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: PrefabLightmapData/LightInfo
+- AssemblyName: Assembly-CSharp
+  ClassName: PrefabLightmapData/RendererInfo
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/WebglChanges/Levels/Level-Hex_Part2.prefab
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2227786223
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 16265f5ec90674593c353b721e81ee4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8af4f908a200f226f5242b0f38dfd85a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 16265f5ec90674593c353b721e81ee4b
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ScaryStranger_5.0/Animators/LevelsAnimator/BBQ Level/03_BBQLevel.overrideController
+Dependencies: []

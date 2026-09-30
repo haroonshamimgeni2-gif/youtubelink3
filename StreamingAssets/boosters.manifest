@@ -1,0 +1,227 @@
+ManifestFileVersion: 0
+CRC: 4145052750
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a89dcfe72f4f3af974b49afa5499e13a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c2e256779dbac2959778cbf3e665be2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a89dcfe72f4f3af974b49afa5499e13a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1af524f6431d2c24bbf707da4d9d6ac9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b28c29541c3aae4ea0f96b8eb247f82, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b6fae460a6ee3f42b00104c1bc7634f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 546bdef4bced5124eb6f42d65ad61b35, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0ce80c06832d4a49a2a30ece9fb2df6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53f5318c9d63cbf4fb880c8c1ccb779e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2cdcbea113a9c4099991e8fe2c9706b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4228455438d30bf47b47dd115476bfa5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1ac6e61fa4c6b345a066ff632553f51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7fb9f554810c20419bc57e7b74a79c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7faa64a828219b44cb0eb5bfbfa83524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b08cf2f80f11b5b4b9ed07a9906630f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8bd5c42674114b478366f6a39f43c0a, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c62bc988abb5f054490ba482afaa3b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e002dde47d9bf8a4fa7884770c7aaa68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23fb3d5ba3338f94995da173f0c747e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc8187d4f411c6945952381ac21b441a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 027153f91c7f56946a90cb357e3992e6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dab1e48a3d5a7294db3b2b9682ba41fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2657e9c0ad5b7d14493b5bf934380e66, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b067664c8e200464ba88e311bb278d1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38aea68ce0a618b4284f7dccd9ee6cf2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f10dd60657c6004587f237a7e90f8e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b22792c3b570444eb18cb78c2af3a74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e0374501f39d54eb30235764636e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AssetKits.ParticleImage.Burst
+- AssemblyName: Assembly-CSharp
+  ClassName: AssetKits.ParticleImage.Module
+- AssemblyName: Assembly-CSharp
+  ClassName: AssetKits.ParticleImage.SeparatedMinMaxCurve
+- AssemblyName: Assembly-CSharp
+  ClassName: AssetKits.ParticleImage.SpeedRange
+- AssemblyName: Assembly-CSharp
+  ClassName: ClipData
+- AssemblyName: Assembly-CSharp
+  ClassName: ManualCameraClipping/LayerClipDistance
+- AssemblyName: Assembly-CSharp
+  ClassName: MaterialsList
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.ParticleSystemModule
+  ClassName: UnityEngine.ParticleSystem/MinMaxCurve
+- AssemblyName: UnityEngine.ParticleSystemModule
+  ClassName: UnityEngine.ParticleSystem/MinMaxGradient
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/WebglUpdates/Prefabs/Boosters/NewBoosterBox.prefab
+- Assets/ScaryStranger_5.0/Boosters/Boosters_New/Prefeb/NewBoosterPanel.prefab
+- Assets/ScaryStranger_5.0/Boosters/BoosterStranger_Dance.prefab
+- Assets/ScaryStranger_5.0/Boosters/BoosterStranger_Sneeze.prefab
+- Assets/ScaryStranger_5.0/Boosters/Boosters_New/Prefeb/BoosterStranger_DanceNew_Booster.prefab
+- Assets/ScaryStranger_5.0/Boosters/Boosters_New/Prefeb/BoosterStranger_AirHorn.prefab
+- Assets/ScaryStranger_5.0/Boosters/Boosters_New/Prefeb/BoosterStranger_TeaserGun.prefab
+- Assets/ScaryStranger_5.0/Boosters/BoosterStranger_Laugh.prefab
+Dependencies: []

@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2273773581
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d63a85007c852ee91a7441888073250
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a53afab9747ceccd0b3f1c462bffff55
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2d63a85007c852ee91a7441888073250
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f538bcbeaf067e40842a6cf37e7269d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f972a31dddd0547abedee095637870, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f53dc50665d6824a92449fc0417e797, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9b390adcf1b63e4eace3dd6587dec89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 33da35d9121ed424eb986fd676041f06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10ddf4777ff120647bc96dd5cb83b30e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5be7b06c14786e4e85a405283d0a62f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/WebglUpdates/Prefabs/Environment/InteractionItems.prefab
+Dependencies: []

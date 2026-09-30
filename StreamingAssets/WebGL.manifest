@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2440827413
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: playerinhanditems
+      Dependencies: {}
+    Info_1:
+      Name: level8_10
+      Dependencies: {}
+    Info_2:
+      Name: levelcompletefail
+      Dependencies: {}
+    Info_3:
+      Name: boosters
+      Dependencies: {}
+    Info_4:
+      Name: menu
+      Dependencies: {}
+    Info_5:
+      Name: level7
+      Dependencies: {}
+    Info_6:
+      Name: level2_4
+      Dependencies: {}
+    Info_7:
+      Name: revivescreen
+      Dependencies: {}
+    Info_8:
+      Name: level5_6
+      Dependencies: {}
+    Info_9:
+      Name: environmentsecondaryitems
+      Dependencies: {}
+    Info_10:
+      Name: animators
+      Dependencies: {}

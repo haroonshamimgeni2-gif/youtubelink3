@@ -1,0 +1,391 @@
+ManifestFileVersion: 0
+CRC: 742415678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02eb4ac6fcf2d1285b94d0cd78a334e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 415db658a5731c2a3a293b1bd54ff90b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 02eb4ac6fcf2d1285b94d0cd78a334e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 432e5bb69ec475544a69220bdd5f88f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f6f972a31dddd0547abedee095637870, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9b390adcf1b63e4eace3dd6587dec89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 777085bcbe5b9f7438e19798df4fd3bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 33da35d9121ed424eb986fd676041f06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f53b1af891f929c45af601d81817be76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0c2118baa653134286fbb939856ca2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5df41e4a9ad82c046a6c061094c0868d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10ddf4777ff120647bc96dd5cb83b30e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0933c78465c51b4fa74c96df3f351af, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ItemBasedObjectsHandling
+Assets:
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Black_Jam.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/BlueDoorKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Fuel_Can_Full.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Water_Bucket.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/heart.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/HairRemover.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/SPEARGun_WITH_FISH.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Rope_Green.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/EGG.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/vinigar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/White_pepper.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/hair color.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Syringe Wrong.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/scarecrow.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Rope round.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cutter without rubber handle.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/WrappingPaper.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Spear_gun.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Ketchup.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/honey_jar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Honey_Jar_Ants.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Fuel_Can_Empty.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Oil.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Pliers.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Rocks.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/SkatesBoard.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Fuel_Pipe.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Ugly_Gnome.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Non Rubber Cutter.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Growraygun .prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/FishingRodWire.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Steel.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Drill.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/NAIL_GUN_WITH_LOADED_NAILS.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/BEEHIVE.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/CHIP.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Tape.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Vinegar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/ChildrenMusicNote.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Hair_Wig.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Plant_Leaves.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/BlueDoorKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Fuel_pipe.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Shoe_Polish.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Rooster.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Salt (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Candies (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/MissT_CC.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/raylens.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/JUG.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Spoon.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/olive oil bottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Gunpowder.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Carnivorous plant.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Saw.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Gift roll.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Toilet Paper.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Black_Bottle.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Banana.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Hair_Wig.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Brown_Bottle .prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/NAIL_GUN_WITH_LOADED_NAILS.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/correctfuel.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/BlackSprayBottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Final Wire Roll (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/GreenDoorKey.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Angle_Grinder.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/LockPick.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/spray.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Beehive.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Match_Box.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Apple_Pie.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Honey_Jar_Ants.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/hair dryer (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/DoubleLadder.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/ax.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/CANDIES.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/SecretKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cement Quik dry mix.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Fire Cracker.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/screw driver (1).prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/PepperSpray.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Black_pepper.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Glue.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Nail_Gun.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/SugarCubesJar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Perfume.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/CorkOpener.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Pliers.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Scissor 1.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Apple_Pie.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/TubeWrench.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Nail.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/PurpleStone.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/RedDoorKey.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/JuiceBottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Animal_Trap.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/GreenRope.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Grease Container.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/BucketWithChololate (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Hook.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/GorillaLockKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Water_Bucket.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/RedWaterColor.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Cute_Gnome.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/FishingRod.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Salt.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Dummy Crowbar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/RightGloves.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Magic Staff.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Bendablepipe.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/blue_arrow.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/CollectibleCrowbar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/FoodColor_Bottle.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Nail_Gun.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Shotgun.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Syring Correct.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Cork.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/adhesive.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Door.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/paint bucket.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Flute.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Butter.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cork 1.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/ladel (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/jug_new.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cork Opener.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/RollerSkates.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Butter.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/EnergyPills.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Red_Cloth.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/CatFood.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/White_Water_Color.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/MilkBottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/pallet.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Tape.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Black_Jam.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Red_Cloth.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/FilledJUG.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Purple_Stone_With_Tape.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Knife.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Ice Cube Tray.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Bobby Pin.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Black_pepper.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/EGG.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/sugar_jar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Audio System.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/CatFood.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Simple_bowl.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Syringe empty.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Perfume Bottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Gorilla .prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/greenpouchwithstone.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/miss_T_Statue.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Mirror.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/wooden.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/easteregg.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cute_Gnome.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/FastGlue.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/DoubleLadder.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Banana (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Box Of Bombs.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/FastGlue.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Angle_Grinder.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/SleepingPills.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/WaterJug.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Wrong_CC.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Rubber_Hammer.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cutter.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Match_Box.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Hair_Dryer.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/paper_tape.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/WOODEN_PLANK.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/FireCracker.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Gunpowder.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/HeavyWeights.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/LightWeights.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Vinegar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Plant_Leaves_Black.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/White_pepper.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Single Live Wire.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Green_Bottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Juice_Bottle.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/GreenDoorKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Knife.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/CrazyPills.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Stool.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/GorillaLockKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/giftwrap.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Red_Bottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Bath Bombs.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Fuel_Can_Full.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Salt.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/green_arrow.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Hammer.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/CrazyPills.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/CorkOpener.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/coins (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/MagnifyingGlass.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/arrow_pink.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Shoe_Polish.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/eggwithspider.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Stranger_Statue.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cherry Box .prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/StrangerPic.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Grease Container.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/RedDoorKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Duct Tape.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/screw driver.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Rope round.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/PaperCutter.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/ketchup 1.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Oil.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Sledge Hammer (1).prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Animal_Trap.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/EnergyPills.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Bullets.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Rubber_Hammer.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/wrongfuel.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/WoodenLog.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/stethoscope.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Correct_CC.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Vial.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/BlueWaterColor.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/WoodSaw.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Wrong_CC.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/gun (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Rope round (1).prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Honey_Jar.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/GreenPouch.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Nail.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/screw driver.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/napkin.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Correct_CC.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Rope_Black.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Detergent.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Photo Frame (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/brwon spray.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Detergent_water_Bucket.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Cutter.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Rooster.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Toychip.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Frozen_Fish.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/juice.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Gold Nugget.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/hair removing.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/cooking spray done.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Hockey Mask.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Hammer (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/SleepingPills.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Garbage Bag.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Plant_Leaves.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Plant_Leaves_Black.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Simple_Fish.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/AdultMusicNote.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Ugly_Gnome.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Bottle.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/FishingRod.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/SpecialLockKey.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Low Poly Nail.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/sugar_syrup.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/BobbyPin.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Saw (1).prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/TaxidermyRoomKey.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Rope_Red.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Knife 1.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cutter 1.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/MissT_CC.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Pepper_Spray.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Fuel_Can_Empty.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/EnergyDrink.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Defibrillator.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Cork.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/RollerSkates.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/torch.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/MilkBottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/WhiteWaterColor.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/BlackRope.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Grease Bottle.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Ladder.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Bullets.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/PINATA_COSTUME.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/WoodenLog.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Jack-o-lantern head.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/stool.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Orange Magic Pouch .prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Scissor 1.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Detergent.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Banana.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Glue 1.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/Gloves.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Watermelon.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/GreenDoorKey (1).prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/RedRope.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/ChilliPowder.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/FishingRodWire.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Ketchup.prefab
+- Assets/WebglUpdates/Prefabs/ItemsToSpawn/RedPaint.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/LockPick.prefab
+- Assets/WebglUpdates/Prefabs/NewPlayerInHandItems/Spoon.prefab
+Dependencies: []

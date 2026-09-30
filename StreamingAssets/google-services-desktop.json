@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11243153272",
+    "project_id": "word-choice--a-love-story",
+    "storage_bucket": "word-choice--a-love-story.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11243153272:android:7cbfe228f256d3bda70a8d",
+        "android_client_info": {
+          "package_name": "com.word.trick.puzzle.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11243153272-amljimfc54ojdlbvo8iaojqq7tuvso4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNF8M86zzMHga9Xbn4Z2Li6cdPZ02Ygks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11243153272-amljimfc54ojdlbvo8iaojqq7tuvso4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

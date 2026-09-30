@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 323386170
+CRC: 2632473935
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -72,20 +72,20 @@ AssetBundleManifest:
       Name: lvl_19
       Dependencies: {}
     Info_23:
-      Name: steal monster
-      Dependencies: {}
-    Info_24:
       Name: lvl_32
       Dependencies: {}
-    Info_25:
+    Info_24:
       Name: lvl_23
       Dependencies: {}
-    Info_26:
+    Info_25:
       Name: lvl_22
       Dependencies: {}
-    Info_27:
+    Info_26:
       Name: lvl_20
       Dependencies: {}
-    Info_28:
+    Info_27:
       Name: lvl_26
+      Dependencies: {}
+    Info_28:
+      Name: steal_monster
       Dependencies: {}
